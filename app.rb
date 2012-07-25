@@ -32,6 +32,7 @@ __END__
     <title>Ruby Game Sokoban</title>
   </head>
   <body>
+    <h1>Ruby Game Sokoban</h1>
     <%= yield%>
     <br>
     <small>
