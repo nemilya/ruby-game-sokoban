@@ -33,6 +33,14 @@ __END__
   </head>
   <body>
     <%= yield%>
+    <br>
+    <small>
+      <a href="/">home</a>
+      |
+      <a href="https://github.com/nemilya/ruby-game-sokoban">github</a>
+      |
+      <a href="https://github.com/nemilya/ruby-game-sokoban/blob/master/spec/game_sokoban_spec.rb">rspec</a>
+    </small>
   </body>
 </html>
 

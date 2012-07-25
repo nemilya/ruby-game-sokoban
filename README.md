@@ -17,3 +17,6 @@ http://www.sokobano.de/wiki/index.php?title=How_to_play_Sokoban
 
     Boxes on goals: *
     The Sokoban on a goal: +
+
+
+Демо: http://ruby-game-sokoban.cloudfoundry.com/move
