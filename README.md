@@ -5,15 +5,15 @@
 http://www.sokobano.de/wiki/index.php?title=How_to_play_Sokoban
 
 
-Уровень состоит из элементов:
+    Уровень состоит из элементов:
 
-Walls: #
-Boxes: $
-Goals: .
-Free squares: ' '
-The Sokoban / the player: @
+    Walls: #
+    Boxes: $
+    Goals: .
+    Free squares: ' '
+    The Sokoban / the player: @
 
-Ящики и Сокобан могут находится на "целевой точке":
+    Ящики и Сокобан могут находится на "целевой точке":
 
-Boxes on goals: *
-The Sokoban on a goal: +
+    Boxes on goals: *
+    The Sokoban on a goal: +
