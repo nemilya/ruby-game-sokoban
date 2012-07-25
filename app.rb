@@ -16,7 +16,7 @@ get "/" do
 end
 
 
-post "/move" do
+post "/" do
   game = GameSokoban.new
   game.set_level params[:level]
   game.sokoban_move params[:direction].to_sym
@@ -45,7 +45,7 @@ __END__
 </html>
 
 @@index
-<form action="/move" method="post">
+<form action="/" method="post">
 <pre style="font-size: 20px"><%= @level %></pre>
 <input type="hidden" name="level" value="<%= @level %>">
 
