@@ -20,3 +20,5 @@ http://www.sokobano.de/wiki/index.php?title=How_to_play_Sokoban
 
 
 Демо: http://ruby-game-sokoban.cloudfoundry.com/
+
+(с) MIT License
